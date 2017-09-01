@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8392026c-479c-4f8d-a61e-da44094da814" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/.tmp/" />
+    <ignored path="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/temp/" />
+    <ignored path="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="61" />
+            <state relative-caret-position="-786">
+              <caret line="23" column="64" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
               <folding>
                 <element signature="e#2753#2759#0" expanded="true" />
                 <element signature="e#2975#2981#0" expanded="true" />
@@ -37,20 +37,20 @@
         </entry>
       </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.css">
+        <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="728">
-              <caret line="134" column="12" lean-forward="false" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="12" />
+            <state relative-caret-position="1428">
+              <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="38" column="65" lean-forward="true" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
+            <state relative-caret-position="448">
+              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -98,12 +98,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.js" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/index.css" />
-        <option value="$PROJECT_DIR$/../JointemHomePage/index.html" />
-        <option value="$PROJECT_DIR$/../JointemHomePage/index.css" />
-        <option value="$PROJECT_DIR$/../JointemHomePage/index.js" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/index.js" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/index.html" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/index.css" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.css" />
+        <option value="$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js" />
       </list>
     </option>
   </component>
@@ -147,24 +147,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HelloWorld" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="JointemHomePage" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Frameworks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Javascript" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -181,8 +163,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/Frameworks/Javascript" />
+      <recent name="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld" />
+      <recent name="$USER_HOME$/Codebase/WebFrontEnd/HelloWorld/Frameworks/Javascript" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -272,12 +254,12 @@
       <workItem from="1503966166751" duration="18378000" />
       <workItem from="1504052411067" duration="14978000" />
       <workItem from="1504140638655" duration="15188000" />
-      <workItem from="1504227570673" duration="13392000" />
+      <workItem from="1504227570673" duration="14263000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81036000" />
+    <option name="totallyTimeSpent" value="81907000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,10 +271,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1440" y="22" width="1920" height="1054" extended-state="6" />
+    <frame x="1440" y="22" width="1920" height="1054" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.114797264" sideWeight="0.49457365" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.108478144" sideWeight="0.49457365" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1594203" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -341,7 +323,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -354,7 +336,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.css">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3556">
           <caret line="254" column="1" lean-forward="true" selection-start-line="254" selection-start-column="1" selection-end-line="254" selection-end-column="1" />
@@ -362,7 +344,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="602">
           <caret line="43" column="16" lean-forward="true" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
@@ -372,7 +354,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="35" column="32" lean-forward="true" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
@@ -385,7 +367,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -395,7 +377,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -408,7 +390,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -421,7 +403,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
@@ -431,7 +413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="7" />
@@ -444,7 +426,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
           <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
@@ -454,7 +436,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.css">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -463,7 +445,7 @@
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/Notepad_6_0.icls" />
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/.editorconfig">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/.editorconfig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="98">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
@@ -485,7 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/Frameworks/Javascript/jquery-3.2.1.js">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/Frameworks/Javascript/jquery-3.2.1.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="7384" column="4" lean-forward="false" selection-start-line="7384" selection-start-column="4" selection-end-line="7384" selection-end-column="4" />
@@ -493,33 +475,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.css">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="134" column="12" lean-forward="false" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="12" />
+        <state relative-caret-position="1428">
+          <caret line="102" column="0" lean-forward="true" selection-start-line="102" selection-start-column="0" selection-end-line="102" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.html">
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="22" column="61" lean-forward="false" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="61" />
+        <state relative-caret-position="448">
+          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Codebase/WebFrontEnd/JointemHomePage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-786">
+          <caret line="23" column="64" lean-forward="false" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
           <folding>
             <element signature="e#2753#2759#0" expanded="true" />
             <element signature="e#2975#2981#0" expanded="true" />
             <element signature="e#3197#3203#0" expanded="true" />
             <element signature="e#4999#5005#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JointemHomePage/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="38" column="65" lean-forward="true" selection-start-line="38" selection-start-column="65" selection-end-line="38" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
           </folding>
         </state>
       </provider>
