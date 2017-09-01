@@ -119,21 +119,21 @@ a {
 
 /* first Page */
 .first {
-    display: none;
+    display: block;
     background-image: url("http://www.jointem.com/images/banner01_bg.jpg");
 }
 
-.first .major {
-    padding-top: 16%;
-}
+/*.first .major {*/
+    /*padding-top: 16%;*/
+/*}*/
 
-.first .sub {
-    margin-top: 7%;
-}
+/*.first .sub {*/
+    /*margin-top: 7%;*/
+/*}*/
 
-.first .page_icon {
-    margin-top: 9%;
-}
+/*.first .page_icon {*/
+    /*margin-top: 9%;*/
+/*}*/
 
 .left_icon {
     margin-right: 2%;
@@ -152,7 +152,7 @@ a {
 
 /*second page*/
 .second {
-    display: block;
+    display: none;
     background-image: url("http://www.jointem.com/images/banner02_bg.jpg");
 }
 
@@ -224,17 +224,18 @@ a {
 
 
 /*contact way*/
-.contact {
+#contact {
     position: absolute;
     right: 50px;
     bottom: 50px;
-    width: 500px;
+    width: 600px;
     height: 100px;
     /*background-color: #1e1b29;*/
     /*opacity: 0.52;*/
     background: rgba(30,27,41, 0.52);
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#841e1b29, endColorstr=#841e1b29);
     z-index: 100;
+    border-radius: 10px;
 }
 
 .contact_container {
@@ -248,9 +249,37 @@ a {
     width: 80px;
     height: 80px;
     font-size: small;
+    position: relative;
 }
 
-.contact_close {
+.contact_element_container {
+    position: absolute;
+    width: 66px;
+    height: 66px;
+    /*two way that make the element in the middle*/
+    /*first way: have to know the width of the element */
+    /*top: 50%;*/
+    /*left: 50%;*/
+    /*margin-left: -33px;*/
+    /*margin-top: -33px;*/
+
+    /*second way: using auto margin */
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+
+    cursor: pointer;
+}
+
+.contact_container > img {
+    width: 80px;
+    height: 80px;
+    display: none;
+}
+
+#contact_close {
     position: absolute;
     top: 0;
     right: 0;
@@ -259,8 +288,24 @@ a {
     cursor: pointer;
     background: rgba(255,255,255, 0.4);
     filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#66ffffff, endColorstr=#66ffffff);
+    border-radius: 0 10px 0 0;
 }
 
 #contact_tel {
-    width: 100px;
+    width: 200px;
+    font-size: large;
+    font-weight: 300;
+    position: relative;
+}
+
+#contact_tel div {
+    margin-top: 5px;
+}
+
+#contact_tel div > img, #contact_tel div > span {
+    vertical-align: middle;
+}
+
+#contact_tel p {
+    margin-top: 20px;
 }
