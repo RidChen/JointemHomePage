@@ -38,6 +38,8 @@ $(function () {
 
     var firstPage = new HomeSwitchingPage(".first", function () {
         /* first page animation */
+        $("#page_list").find("img")[0].src = "http://www.jointem.com/images/dot01.png";
+
         var first = $(".first");
         first.css("display", "block");
         first.children(".major").css({"paddingTop": "16%", "opacity": "0"});
@@ -53,9 +55,21 @@ $(function () {
         }, ANIMATIONINTERVAL);
     }, function () {
         $(".first").css("display", "none");
+        /* using DOM to find and modify page controller's status */
+        // var listItems = document.getElementById("page_list").getElementsByTagName("img");
+        //
+        // if (listItems.length > 0)
+        // {
+        //     listItems[0].src = "http://www.jointem.com/images/dot02.png";
+        // }
+
+        /* using jQuery to find and modify page controller's status */
+        $("#page_list").find("img")[0].src = "http://www.jointem.com/images/dot02.png";
     });
 
     var secondPage = new HomeSwitchingPage(".second", function () {
+        $("#page_list").find("img")[1].src = "http://www.jointem.com/images/dot01.png";
+
         /* second page animation */
         var second = $(".second");
         second.css("display", "block");
@@ -82,6 +96,7 @@ $(function () {
         }, ANIMATIONINTERVAL);
     }, function () {
         $(".second").css("display", "none");
+        $("#page_list").find("img")[1].src = "http://www.jointem.com/images/dot02.png";
     });
 
     // add a handler to close contact way
